@@ -127,12 +127,12 @@
         <div class="factura-body">
             <div class="details">
                 <div>
-                    <span><strong>Arrendador: Ever Armando Moncada</strong></span>
-                    <span>Nombre del Arrendador</span>
+                    <span><strong>Arrendador: </strong></span>
+                    <span>Ever Armando Moncada</span>
                 </div>
                 <div>
-                    <span><strong>Número del Arrendador: 3145842929</strong></span>
-                    <span>1234567890</span>
+                    <span><strong>Número del Arrendador: </strong></span>
+                    <span>3145842929</span>
                 </div>
                 <div>
                     <span><strong>Arrendatario:</strong></span>
